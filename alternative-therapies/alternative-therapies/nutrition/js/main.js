@@ -128,8 +128,8 @@
     });
 
 
-    $('.headerx').load('/homeopathic-treatement/header.html')
-    $('.footerx').load('/homeopathic-treatement/footer.html')
+    $('.headerx').load('/alternative-therapies/header.html')
+    $('.footerx').load('/alternative-therapies/footer.html')
 
 })(jQuery);
 
